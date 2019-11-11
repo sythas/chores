@@ -1,0 +1,5 @@
+[
+    { "name": "Laundry", "description": "Gather all the dirty laundry in the house and sort it for washing.", "schedule": "4d" },
+    { "name": "Clean Bathrooms", "description":"Clean mirror, toilet, shower/tub, floor, garbage can in all bathrooms", "schedule": "7d" },
+    { "name": "Dishes", "description": "Load all dirty dishes into dishwasher", "schedule": "1d" }
+]
